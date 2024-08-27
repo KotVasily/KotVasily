@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**KotVasily/KotVasily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Марк, и мне всего 12 лет, но я уже активно занимаюсь искусственным интеллектом и машинным обучением. 
 
-Here are some ideas to get you started:
+## 🏆 Мои достижения в ИИ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥇 **Kaggle Expert** (с 12 лет)  
+  [Мой профиль на Kaggle](https://www.kaggle.com/markdjadchenko)
+  
+- 🥉 **Purple Hack** — 12 место, трек от СберБанка  
+  [Подробнее о Purple Hack](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/pctljuf4n1-it-purple-hack)
+  
+- 🏅 **Data Fusion Contest 2024 - Задача 2 «Отток»** — 5 место  
+  [Соревнование на ODS](https://ods.ai/competitions/data-fusion2024-churn)
+  
+- 🥈 **AI ARROW** — 2 место  
+  [AI ARROW Camp](https://ai-arrow-camp.com/)
+
+## 💻 Обо мне
+
+Я увлекаюсь программированием и искусственным интеллектом. Уже владею такими библиотеками как TensorFlow, PyTorch, Pandas, Scikit-learn, NumPy и многими другими. Постоянно учусь новому и совершенствую свои навыки.
+
+## 🌐 Мои соцсети
+
+- Telegram: [@markdjadcnhenko](https://t.me/markdjadcnhenko)  
+- Discord: KotVasily
