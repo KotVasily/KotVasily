@@ -4,16 +4,16 @@
 
 ## 🏆 Мои достижения в ИИ
 
-- 🥇 **Kaggle Expert** (с 12 лет)  
+- **Kaggle Expert** (с 12 лет)  
   [Мой профиль на Kaggle](https://www.kaggle.com/markdjadchenko)
   
-- 🥉 **Purple Hack** — 12 место, трек от СберБанка  
+- **Purple Hack** — 12 место, трек от СберБанка  
   [Подробнее о Purple Hack](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/pctljuf4n1-it-purple-hack)
   
-- 🏅 **Data Fusion Contest 2024 - Задача 2 «Отток»** — 5 место  
+- **Data Fusion Contest 2024 - Задача 2 «Отток»** — 5 место  
   [Соревнование на ODS](https://ods.ai/competitions/data-fusion2024-churn)
   
-- 🥈 **AI ARROW** — 2 место  
+- **AI ARROW** — 2 место  
   [AI ARROW Camp](https://ai-arrow-camp.com/)
 
 ## 💻 Обо мне
