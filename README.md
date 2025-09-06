@@ -23,4 +23,3 @@ Pandas, Xgboost, LightGBM, Catboost, Pytorch, Tensorflow, scikit-learn, YOLO, De
 ## 🌐 Мои соцсети
 
 - Telegram: [@markdjadcnhenko](https://t.me/markdjadcnhenko)  
-- Discord: KotVasily
