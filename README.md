@@ -16,7 +16,7 @@
 - **AI ARROW** — 2 место  
   [AI ARROW Camp](https://ai-arrow-camp.com/)
 
-- **AI Challenge 2024 - Задача «Инвестиции» ** - 4 место
+- **AI Challenge 2024 - Задача «Инвестиции»** - 4 место
 
 ## Стек
 Pandas, Xgboost, LightGBM, Catboost, Pytorch, Tensorflow, scikit-learn, YOLO, Detectron2, Transformers...
