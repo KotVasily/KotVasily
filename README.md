@@ -16,7 +16,7 @@
 
 - **AI Challenge 2024 - Задача «Инвестиции»** - 4 место
 
-- **Всеросс по ии** - победитель
+- [**Всеросс по ии 2025**](https://ai.edu.gov.ru/2025) - победитель
 
 ## Стек
 Pandas, Xgboost, LightGBM, Catboost, Pytorch, Tensorflow, scikit-learn, YOLO, Detectron2, Transformers...
