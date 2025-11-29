@@ -1,8 +1,8 @@
 Меня зовут Марк, мне 14 лет. 
 
-## 🏆 Мои достижения в ИИ
+## 🏆 Достижения в ИИ
 
-- **Kaggle Expert** (с 12 лет)  
+- **Kaggle Expert**
   [Мой профиль на Kaggle](https://www.kaggle.com/markdjadchenko)
   
 - **Purple Hack** — 12 место, трек от СберБанка  
@@ -15,6 +15,8 @@
   [AI ARROW Camp](https://ai-arrow-camp.com/)
 
 - **AI Challenge 2024 - Задача «Инвестиции»** - 4 место
+
+- **ВСОШ по ии** - победитель
 
 ## Стек
 Pandas, Xgboost, LightGBM, Catboost, Pytorch, Tensorflow, scikit-learn, YOLO, Detectron2, Transformers...
