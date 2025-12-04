@@ -1,22 +1,13 @@
-Меня зовут Марк, мне 14 лет. 
+I'm 14 years old. I'm a machine learning engineer and data analyst. I've been actively involved in ML, data analysis, and NLP for two years now.
 
-## 🏆 Достижения в ИИ
+## 🏆 My achievements
 
-- **Kaggle Expert**
-  [Мой профиль на Kaggle](https://www.kaggle.com/markdjadchenko)
-  
-- **Purple Hack** — 12 место, трек от СберБанка  
-  [Подробнее о Purple Hack](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/pctljuf4n1-it-purple-hack)
-  
-- **Data Fusion Contest 2024 - Задача 2 «Отток»** — 5 место  
-  [Соревнование на ODS](https://ods.ai/competitions/data-fusion2024-churn)
-  
-- **AI ARROW** — 2 место  
-  [AI ARROW Camp](https://ai-arrow-camp.com/)
-
+- **Kaggle Expert** 
+- **Purple Hack** — 12 место 
+- **Data Fusion Contest 2024 — 5 место  
+- **AI ARROW** — 2 место 
 - **AI Challenge 2024 - Задача «Инвестиции»** - 4 место
-
-- [**Всероссийская олимпиада по искусственному интеллекту 2025**](https://ai.edu.gov.ru/2025) - победитель
+- **Всероссийская олимпиада по искусственному интеллекту 2025** - победитель
 
 ## Стек
 Pandas, Xgboost, LightGBM, Catboost, Pytorch, Tensorflow, scikit-learn, YOLO, Detectron2, Transformers...
