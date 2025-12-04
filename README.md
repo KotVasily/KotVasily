@@ -4,7 +4,7 @@ I'm 14 years old. I'm a machine learning engineer and data analyst. I've been ac
 - 🏆**Kaggle Expert**
 - 🥇 **IT CUB Hackathon** - 1nd place 
 - 🏆 **Russian National Artificial Intelligence Olympiad 2025** - winner
-- 🏆**Data Fusion Contest 2024 — 4nd place 
+- 🏆**Data Fusion Contest 2024** — 4nd place 
 - 🥈**AI ARROW** — 2nd place
 - 🏆**International School Competition in Artificial Intelligence (AI Challenge) 2024** - 4nd place
 
