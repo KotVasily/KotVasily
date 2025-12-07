@@ -7,7 +7,7 @@ I'm 14 years old. I'm a machine learning engineer and data analyst. I've been ac
 - 🏆**Data Fusion Contest 2024** — 4nd place 
 - 🥈**AI ARROW** — 2nd place
 - 🏆**International School Competition in Artificial Intelligence (AI Challenge) 2024** - 4nd place
-
+- 🥉**Yandex Cup ML Track** - 3nd place 
 ## Technologies
 Python, C++, Pandas, Xgboost, LightGBM, Catboost, Pytorch, Tensorflow, scikit-learn, YOLO, Detectron2, Transformers...
 ## 🌐 My social networks
