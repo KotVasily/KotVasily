@@ -1,7 +1,7 @@
 I'm 14 years old. I'm a machine learning engineer and data analyst. I've been actively involved in ML, data analysis, and NLP for two years now.
 
 ## 🏆 My achievements
-- 🏆**Kaggle Expert**
+- 🏆**Kaggle Master**
 - 🥇 **IT CUB Hackathon** - 1nd place 
 - 🏆 **Russian National Artificial Intelligence Olympiad 2025** - winner
 - 🏆**Data Fusion Contest 2024** — 5nd place 
