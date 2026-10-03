@@ -1,4 +1,4 @@
-I'm 15 years old. I'm a machine learning engineer and data analyst.
+I'm a machine learning engineer and data analyst.
 
 ## 🏆 My achievements
 - 🏆**Kaggle Master** 
